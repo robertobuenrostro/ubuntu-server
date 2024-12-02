@@ -33,7 +33,7 @@
 
 >Rufus - creates bootable media
 
->Ubuntu Server OS
+>Ubuntu Server - OS
 
 >UFW - firewall configuration tool
 
