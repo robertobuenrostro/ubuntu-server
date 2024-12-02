@@ -125,5 +125,5 @@ Added application to android to transfer files to server through smb
 <a href="https://imgur.com/6lFz1Vj"><img src="https://i.imgur.com/6lFz1Vjl.png" title="source: imgur.com" /></a>
 
 
-Was having a difficult time with PC getting access to server and found smb client was not enable on Windows PC and had to add user with 
+Was having a difficult time with PC getting access to server and found smb client was not enabled on Windows PC and had to add user with 
 syntax sudo smbpasswd -a umb12eon
