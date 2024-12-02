@@ -45,12 +45,12 @@
 
 ## Steps
 
-Installed a Ryzen 5 1400 CPU onto the motherboard, 16gb RAM, and CPU cooler with thermopaste.
+Installed a Ryzen 5 1400 CPU onto the motherboard, 16GB RAM, and CPU cooler with thermopaste.
 
 
 <a href="https://imgur.com/H1pFuOn"><img src="https://i.imgur.com/H1pFuOnl.jpg" title="source: imgur.com" /></a>
 
-Installed motherboard onto a NZXT case along with a 500w psu power supply, GTX 1650 GPU, and A 1TB HDD 
+Installed motherboard onto a NZXT case along with a 500W power supply, GTX 1650 GPU, and a 1TB HDD 
 
 <a href="https://imgur.com/JIzbnBs"><img src="https://i.imgur.com/JIzbnBsl.jpg" title="source: imgur.com" /></a>
 
@@ -58,11 +58,11 @@ Downloaded OS and created a bootable Drive with RUFUS
 
 <a href="https://imgur.com/nOPptI2"><img src="https://i.imgur.com/nOPptI2l.png" title="source: imgur.com" /></a>
 
-Follow the promps and finished installing Ubuntu Server OS
+Follow the prompts and finished installing Ubuntu Server OS
 
 <a href="https://imgur.com/tRHvRQi"><img src="https://i.imgur.com/tRHvRQil.jpg" title="source: imgur.com" /></a>
 
-Enabling UFW firewall 
+Enabling Uncomplicated Firewall (UFW) 
 
 <a href="https://imgur.com/IehzCBU"><img src="https://i.imgur.com/IehzCBUl.png" title="source: imgur.com" /></a>
 
@@ -110,11 +110,11 @@ Added users to smb
 
 <a href="https://imgur.com/qDR134O"><img src="https://i.imgur.com/qDR134Ol.png" title="source: imgur.com" /></a>
 
-Verifying its operating 
+Verifying it's operating 
 
 <a href="https://imgur.com/Tmhatvs"><img src="https://i.imgur.com/Tmhatvsl.png" title="source: imgur.com" /></a>
 
-*Bonus* Added application to android to transfer files to server through smb 
+*Bonus* - Added application to android to transfer files to server through smb 
 
 <a href="https://imgur.com/VRz7d3u"><img src="https://i.imgur.com/VRz7d3ul.jpg" title="source: imgur.com" /></a>
 
@@ -125,5 +125,5 @@ Verifying its operating
 <a href="https://imgur.com/6lFz1Vj"><img src="https://i.imgur.com/6lFz1Vjl.png" title="source: imgur.com" /></a>
 
 
-Was having a difficult time with PC getting access to server and found smb client not enable on windows PC and had to add user with 
-syntax sudo smbpasswd -a umbreon
+Was having a difficult time with PC getting access to server and found smb client was not enable on Windows PC and had to add user with 
+syntax sudo smbpasswd -a umb12eon
