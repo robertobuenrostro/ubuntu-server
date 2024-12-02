@@ -58,31 +58,31 @@ Downloaded OS and created a bootable Drive with RUFUS
 
 <a href="https://imgur.com/nOPptI2"><img src="https://i.imgur.com/nOPptI2l.png" title="source: imgur.com" /></a>
 
-Follow the prompts and finished installing Ubuntu Server OS
+Followed the prompts and finished installing Ubuntu Server OS
 
 <a href="https://imgur.com/tRHvRQi"><img src="https://i.imgur.com/tRHvRQil.jpg" title="source: imgur.com" /></a>
 
-Enabling Uncomplicated Firewall (UFW) 
+Enabled Uncomplicated Firewall (UFW) 
 
 <a href="https://imgur.com/IehzCBU"><img src="https://i.imgur.com/IehzCBUl.png" title="source: imgur.com" /></a>
 
-Configuring firewall to allow port 22(ssh)
+Configured firewall to allow port 22(ssh)
 
 <a href="https://imgur.com/sHTmilw"><img src="https://i.imgur.com/sHTmilwl.png" title="source: imgur.com" /></a>
 
-Starting SSH on personal windows pc to verify 
+Started SSH on personal windows pc to verify functionality
 
 <a href="https://imgur.com/4vTgdfj"><img src="https://i.imgur.com/4vTgdfj.png" title="source: imgur.com" /></a>
 
-Enabling cockpit for GUI interface on browser
+Enabled cockpit for GUI interface on browser
 
 <a href="https://imgur.com/SlSH8oU"><img src="https://i.imgur.com/SlSH8oUl.png" title="source: imgur.com" /></a>
 
-Adding rule to firewall 
+Added rule to firewall 
 
 <a href="https://imgur.com/SrUztor"><img src="https://i.imgur.com/SrUztorl.png" title="source: imgur.com" /></a>
 
-Verifying GUI in Browser 
+Verified GUI in Browser 
 
 <a href="https://imgur.com/Rt8V9sS"><img src="https://i.imgur.com/Rt8V9sSl.png" title="source: imgur.com" /></a>
 
@@ -90,19 +90,19 @@ Added Users to server and configured permissions
 
 <a href="https://imgur.com/XvEDXEJ"><img src="https://i.imgur.com/XvEDXEJl.png" title="source: imgur.com" /></a>
 
-Verifying user in cockpit
+Verified user in cockpit
 
 <a href="https://imgur.com/3I4Hb7n"><img src="https://i.imgur.com/3I4Hb7nl.png" title="source: imgur.com" /></a>
 
-Installing samba
+Installed samba
 
 <a href="https://imgur.com/KvPiWTA"><img src="https://i.imgur.com/KvPiWTAl.png" title="source: imgur.com" /></a>
 
-Configuring samba files
+Configured samba files
 
 <a href="https://imgur.com/5IOELR0"><img src="https://i.imgur.com/5IOELR0l.png" title="source: imgur.com" /></a>
 
-Restarting service and verifying its operational 
+Restarted service and verifying its operational 
 
 <a href="https://imgur.com/mPfBae7"><img src="https://i.imgur.com/mPfBae7l.png" title="source: imgur.com" /></a>
 
@@ -110,11 +110,11 @@ Added users to smb
 
 <a href="https://imgur.com/qDR134O"><img src="https://i.imgur.com/qDR134Ol.png" title="source: imgur.com" /></a>
 
-Verifying it's operating 
+Verified it's operating 
 
 <a href="https://imgur.com/Tmhatvs"><img src="https://i.imgur.com/Tmhatvsl.png" title="source: imgur.com" /></a>
 
-*Bonus* - Added application to android to transfer files to server through smb 
+Added application to android to transfer files to server through smb 
 
 <a href="https://imgur.com/VRz7d3u"><img src="https://i.imgur.com/VRz7d3ul.jpg" title="source: imgur.com" /></a>
 
