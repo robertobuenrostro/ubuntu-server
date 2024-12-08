@@ -39,7 +39,7 @@
 
 >Cockpit - GUI interface over browser
 
->Docker - Container software
+>Podman - Container software
 
 >Samba - file sharing and user access control between Linux and Windows systems
 
